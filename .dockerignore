@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.ipynb_checkpoints/
+notebook/
+output_report.html
+*.ipynb
+scratch.py
+test_loc.py
